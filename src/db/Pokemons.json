@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Pikachu",
+        "id": 0,
+        "type": [
+            { "name": "Electrico", "strongAgainst": ["Electrico", "Tierra"], "weakAgainst": ["Tierra", "Planta"] }
+        ],
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/172.png"
+    },
+    {
+        "name": "Bulbasaur",
+        "id": 1,
+        "type": [
+            { "name": "Espesura", "strongAgainst": ["Planta", "Veneno"], "weakAgainst": ["Roca", "Agua"] }
+        ],
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+    },
+    {
+        "name": "Sceptile",
+        "id": 2,
+        "type": [
+            { "name": "Planta", "strongAgainst": ["Tierra", "Roca", "Agua" ], "weakAgainst": ["Volador", "Veneno", "Bicho"] }
+        ],
+        "img":"https://static.wikia.nocookie.net/espokemon/images/0/00/EP929_Sceptile_de_Sawyer.png/revision/latest?cb=20160709014637" 
+    },
+    {
+        "name": "Lucario",
+        "id": 3,
+        "type": [
+            { "name": "Acero", "strongAgainst": ["Roca", "Hielo", "Hada" ], "weakAgainst": ["Fuego", "Agua", "Eléctrico"] }
+        ],
+        "img":"https://static.wikia.nocookie.net/espokemon/images/d/d0/Lucario.png/revision/latest?cb=20150621180604" 
+    },
+    {
+        "name": "Venusaur",
+        "id": 3,
+        "type": [
+            { "name": "Espesura.", "strongAgainst": ["Planta", "Veneno"], "weakAgainst": ["Siniestro", "Acero"] }
+        ],
+        "img":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png" 
+    }
+]
